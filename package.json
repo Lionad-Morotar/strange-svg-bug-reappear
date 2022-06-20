@@ -1,0 +1,19 @@
+{
+  "name": "strange-svg-bug-reappear",
+  "version": "1.0.0",
+  "description": "Trying to reappear a strange SVG bug.",
+  "main": " ",
+  "scripts": {
+    "start": "http-server ./ -c0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lionad-Morotar/strange-svg-bug-reappear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lionad-Morotar/strange-svg-bug-reappear/issues"
+  },
+  "homepage": "https://github.com/Lionad-Morotar/strange-svg-bug-reappear#readme"
+}
