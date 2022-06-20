@@ -12,14 +12,18 @@ Trying to reappear a strange SVG bug.
 
 ## Bugs
 
-* bug 1
+* bug 1（scale a background-image-SVG cause jaggies）
 
-![SVG with sharp edge](./md-resource/bug-1.gif)
+![](./md-resource/bug-1.gif)
 
 * bug 2
 
-![SVG with sharp edge](./md-resource/bug-2.gif)
+![](./md-resource/bug-2.gif)
 
-* control-group: SVG with sharp edge
+* control-group 1（chrome、write SVG directly in HTML）
 
-![SVG with sharp edge](./md-resource/normal.png)
+![](./md-resource/normal.png)
+
+* control-group 2（firefox、SVG as background-image）
+
+![](./md-resource/firefox.png)
