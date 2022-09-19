@@ -1,7 +1,5 @@
 # strange-svg-bug-reproduce
 
-Trying to reappear a strange SVG bug.
-
 ## Steps
 
 1. npm install -g http-server
