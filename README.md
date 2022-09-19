@@ -1,4 +1,4 @@
-# strange-svg-bug-reappear
+# strange-svg-bug-reproduce
 
 Trying to reappear a strange SVG bug.
 
