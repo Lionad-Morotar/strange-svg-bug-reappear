@@ -1,5 +1,7 @@
 # strange-svg-bug-reproduce
 
+[Link to Chrome Bugs](https://bugs.chromium.org/p/chromium/issues/detail?id=1337677)
+
 ## Steps
 
 1. npm install -g http-server
